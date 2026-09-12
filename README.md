@@ -1,4 +1,4 @@
-# Linux Architectuce & How to rice / rice components Writeup
+# Linux Architecture & How to rice / rice components Writeup
 A extensive wall of text regarding the architecture of unix/linux and the components of ricing. 
 Includes my sources(in the sources.md file), additional links and resources.
 
